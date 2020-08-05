@@ -1,0 +1,17 @@
+.catalogue {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+article {
+	width: 45%;
+	text-align: center;
+	border: 2px solid black;
+	margin-bottom: 5%;
+}
+img {
+	width: 50%;
+	height: 50%;
+	margin-top: 2%;
+}
